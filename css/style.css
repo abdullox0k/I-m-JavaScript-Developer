@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+img {
+    display: inline-block;
+}
+
+.container {
+    width: 1150px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.box {
+    margin-top: -320px;
+    width: 1400px;
+    height: 400px;
+    background: linear-gradient( 190deg,orange, red);
+}
+.boxx{
+    color: white;
+    font-size: 33px;
+    text-align: center;
+    margin-top: 170px;
+}
